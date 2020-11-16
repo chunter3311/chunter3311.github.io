@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Full Stack Project Portfolio
+# Cole Hunter, Software Developer
 
-## Cole Hunter, Software Developer
+## Full Stack Project Portfolio
 ![Cole Hunter](https://i.imgur.com/q68Ehnt.jpg)
 
 Hi, I’m Cole and I’m a software developer.
@@ -13,21 +13,18 @@ If you’re looking for an enthusiastic web developer, well-rounded in modern te
 ## My Projects
 
 ### Cram
-![Cram](https://i.imgur.com/3yy65uc.jpg)
-
 A full stack web app for creating and studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied, utilizing an interface to reveal the answer when ready. Progress is tracked.
+
 [Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
 
 ### EverQuote
-![EverQuote](https://i.imgur.com/hhhfFHN.jpg)
-
 A clone of the popular site evernote.com. Designed to allow users to store, edit and access quotes they found notable.
+
 [Live Site](https://everquote.herokuapp.com/) | [GitHub](https://github.com/djwilki/EverQuote)
 
 ### NoiseWave
-![NoiseWave](https://i.imgur.com/8kCqSPa.jpg)
-
 Inspired by soundcloud.com, NoiseWave allows users to upload, search and play music. Utilizes a persistent audio player that plays music while you navigate website.
+
 [Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
 
 ## About Me
