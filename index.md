@@ -18,7 +18,7 @@ About a year ago, I realized it was time to receive some formal education and tr
 ## My Projects
 
 ### Congestion
-![Congestion](https://i.imgur.com/Gt2zGiY.jpg)
+![Congestion](https://i.imgur.com/HShWIRG.jpg)
 A puzzle game based on the Windows game Blocked In, that allows users to create and play puzzles.
 Puzzle layouts are read from the database and rendered with React components.
 Puzzle layouts are stored in a database table as a string that represents the position and identity of the different moving pieces.
@@ -28,16 +28,19 @@ The Redux store is used to handle sessions, database and UI.
 [Live Site](https://congestion-puzzle.herokuapp.com/) | [GitHub](https://github.com/chunter3311/congestion)
 
 ### Cram
+![Cram](https://i.imgur.com/w66urqu.jpg)
 A full stack web app for creating and studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied, utilizing an interface to reveal the answer when ready. Progress is tracked.
 
 [Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
 
 ### EverQuote
+![EverQuote](https://i.imgur.com/jjZHjWl.jpg)
 A clone of the popular site evernote.com. Designed to allow users to store, edit and access quotes they found notable.
 
 [Live Site](https://everquote.herokuapp.com/) | [GitHub](https://github.com/djwilki/EverQuote)
 
 ### NoiseWave
+![NoiseWave](https://i.imgur.com/bralpN5.jpg)
 Inspired by soundcloud.com, NoiseWave allows users to upload, search and play music. Utilizes a persistent audio player that plays music while you navigate website.
 
 [Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
