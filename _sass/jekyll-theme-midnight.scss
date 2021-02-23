@@ -316,10 +316,13 @@ section {
 
 .skills {
   display: flex;
-  margin-right: 20px;
+  margin-right: 70px;
   flex-direction: column;
 }
 
+.skill {
+  line-height: 2;
+}
 .columns p {
   margin-left: 20px;
 }
