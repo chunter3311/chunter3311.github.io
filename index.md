@@ -18,7 +18,8 @@ About a year ago, I realized it was time to receive some formal education and tr
 ## My Projects
 
 ### Congestion
-![Congestion](https://i.imgur.com/HShWIRG.jpg)
+<!-- ![Congestion](https://i.imgur.com/HShWIRG.jpg) -->
+![Congestion gameplay](/readme-resources/congestion-demo-1.gif)
 A puzzle game based on the Windows game Blocked In, that allows users to create and play puzzles.
 Puzzle layouts are read from the database and rendered with React components.
 Puzzle layouts are stored in a database table as a string that represents the position and identity of the different moving pieces.
