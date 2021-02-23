@@ -309,13 +309,14 @@ section {
 
 .columns {
   display: flex;
-  justify-content: space-between;
+  // justify-content: space-between;
   // align-content: center;
   margin: 20px 0;
 }
 
 .skills {
   display: flex;
+  margin-right: 20px;
   flex-direction: column;
 }
 
