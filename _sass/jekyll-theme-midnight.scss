@@ -314,6 +314,11 @@ section {
   margin: 20px 0;
 }
 
+.skills {
+  display: flex;
+  flex-direction: column;
+}
+
 .columns p {
   margin-left: 20px;
 }

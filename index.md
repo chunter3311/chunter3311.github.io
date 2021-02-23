@@ -52,27 +52,27 @@ Inspired by soundcloud.com, NoiseWave allows users to upload, search and play mu
 
 ## My Skills
 <div class='columns'>
-<div>
-<span>✓</span> JavaScript
-<span>✓</span> Python
-<span>✓</span> React.js
-<span>✓</span> Redux
-<span>✓</span> HTML
-<span>✓</span> CSS
-<span>✓</span> Flask
-<span>✓</span> Docker
-<span>✓</span> Git
+<div class='skills'>
+<div class='skill'><span>✓</span> JavaScript</div>
+<div class='skill'><span>✓</span> Python</div>
+<div class='skill'><span>✓</span> React.js</div>
+<div class='skill'><span>✓</span> Redux</div>
+<div class='skill'><span>✓</span> HTML</div>
+<div class='skill'><span>✓</span> CSS</div>
+<div class='skill'><span>✓</span> Flask</div>
+<div class='skill'><span>✓</span> Docker</div>
+<div class='skill'><span>✓</span> Git</div>
 </div>
-<div>
-<span>✓</span> Full Stack Development
-<span>✓</span> PostgreSQL
-<span>✓</span> Node.js
-<span>✓</span> WordPress
-<span>✓</span> Adobe Photoshop
-<span>✓</span> Graphic Design
-<span>✓</span> Web Design
-<span>✓</span> Search Engine Optimization
-<span>✓</span> Google Analytics
+<div class='skills'>
+<div class='skill'><span>✓</span> Full Stack Development</div>
+<div class='skill'><span>✓</span> PostgreSQL</div>
+<div class='skill'><span>✓</span> Node.js</div>
+<div class='skill'><span>✓</span> WordPress</div>
+<div class='skill'><span>✓</span> Adobe Photoshop</div>
+<div class='skill'><span>✓</span> Graphic Design</div>
+<div class='skill'><span>✓</span> Web Design</div>
+<div class='skill'><span>✓</span> Search Engine Optimization</div>
+<div class='skill'><span>✓</span> Google Analytics</div>
 </div>
 </div>
 
