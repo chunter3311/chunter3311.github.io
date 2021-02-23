@@ -36,6 +36,38 @@ The Redux store is used to handle sessions, database and UI.
 ![Cram](/readme-resources/cram-demo.gif)
 A full stack web app for creating and studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied, utilizing an interface to reveal the answer when ready. Progress is tracked.
 
+#### Technologies Used
+<div class='columns'>
+    <div class='skills'>
+        <h4>Frontend</h4>
+        <div class='skill'>SQLAlchemy, for using Python SQL</div>
+        <div class='skill'>Alembic, for database migrations</div>
+        <div class='skill'>Flask, for handling web server calls</div>
+        <div class='skill'>Flask-Login, for user session management with Flask</div>
+        <div class='skill'>Flask-CORS, for handling Cross Origin Resource Sharing</div>
+        <div class='skill'>Flask-WTF, for integrating Flask and WTForms</div>
+        <div class='skill'>Flask-Migrate, for handling SQLAlchemy database migrations for Flask applications </div>using Alembic
+        <div class='skill'>Gunicorn, a WSGI to run my Python applications</div>
+        <div class='skill'>Werkzeug, to hash passwords and perform type conversions</div>
+        <div class='skill'>WTForms, for form validations</div>
+    </div>
+    <div class='skills'>
+        <h4>Backend</h4>
+        <div class='skill'>SQLAlchemy, for using Python SQL</div>
+        <div class='skill'>Alembic, for database migrations</div>
+        <div class='skill'>Flask, for handling web server calls</div>
+        <div class='skill'>Flask-Login, for user session management with Flask</div>
+        <div class='skill'>Flask-CORS, for handling Cross Origin Resource Sharing</div>
+        <div class='skill'>Flask-WTF, for integrating Flask and WTForms</div>
+        <div class='skill'>Flask-Migrate, for handling SQLAlchemy database migrations for Flask applications </div>using Alembic
+        <div class='skill'>Gunicorn, a WSGI to run my Python applications</div>
+        <div class='skill'>Werkzeug, to hash passwords and perform type conversions</div>
+        <div class='skill'>WTForms, for form validations</div>
+    </div>
+</div>
+
+
+
 [Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
 
 ### EverQuote
