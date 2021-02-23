@@ -51,23 +51,32 @@ Inspired by soundcloud.com, NoiseWave allows users to upload, search and play mu
 [Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
 
 ## My Skills
-*   JavaScript
-*   Python
-*   React.js
-*   Redux
-*   Flask
-*   Docker
-*   HTML
-*   CSS
-*   PostgreSQL
-*   Node.js
-*   WordPress
-*   Photoshop
-*   Search Engine Optimization
-*   Git
-*   Graphic Design
-*   Computer Science
-*   Full Stack Development
+<div class='columns'>
+<div>
+<span>✓</span> JavaScript
+<span>✓</span> Python
+<span>✓</span> React.js
+<span>✓</span> Redux
+<span>✓</span> HTML
+<span>✓</span> CSS
+<span>✓</span> Flask
+<span>✓</span> Docker
+<span>✓</span> Git
+</div>
+<div>
+<span>✓</span> Full Stack Development
+<span>✓</span> PostgreSQL
+<span>✓</span> Node.js
+<span>✓</span> WordPress
+<span>✓</span> Adobe Photoshop
+<span>✓</span> Graphic Design
+<span>✓</span> Web Design
+<span>✓</span> Search Engine Optimization
+<span>✓</span> Google Analytics
+</div>
+</div>
+
+
 
 ## Contact Me
 cole.joshua.hunter.dev@gmail.com | 832-385-0940
