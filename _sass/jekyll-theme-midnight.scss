@@ -14,8 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  // color:#e8e8e8;
-  color:#c5d305;
+  color:#efefef;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -306,4 +305,8 @@ section {
   nav {
     display: none;
   }
+}
+
+.columns {
+  display: flex;
 }

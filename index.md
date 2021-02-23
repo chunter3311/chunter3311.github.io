@@ -5,10 +5,15 @@ layout: default
 # Cole Hunter, Software Developer
 
 ## Full Stack Project Portfolio
-![Cole Hunter](https://i.imgur.com/q68Ehnt.jpg)
-
+<div class='columns'>
+<img src='https://i.imgur.com/q68Ehnt.jpg'>
+<p>
 Hi, I’m Cole and I’m a software developer.
 If you’re looking for an enthusiastic web developer, well-rounded in modern technologies, I believe I’m well suited to meet the needs of your team.
+</p>
+</div>
+
+
 
 ## About Me
 My technical career began 7 years ago, when I studied my first programming language, C++. That led me to an internship with the Harris County District Clerk’s Office, where I got to observe the day to day work of seasoned programmers. Immediately after that, I found a position with a small web marketing firm, where I worked for 3.5 years. There I learned the basics of web design, search engine optimization, and business etiquette.
