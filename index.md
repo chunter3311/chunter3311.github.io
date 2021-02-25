@@ -21,28 +21,6 @@ My technical career began 7 years ago, when I studied my first programming langu
 About a year ago, I realized it was time to receive some formal education and training in modern software development. That led me to enroll in a coding school called App Academy, a rigorous thousand-hour curriculum that covered the full-stack of software development. While there, I sharpened my coding skills in several technologies, including React/Redux, Javascript, Python and Flask.
 
 ## My Projects
-### Technologies Used
-<div class='columns'>
-    <div class='skills'>
-        <h4>Frontend</h4>
-        <div class='skill'><span>✓</span> React</div>
-        <div class='skill'><span>✓</span> Redux</div>
-    </div>
-    <div class='skills'>
-        <h4>Backend</h4>
-        <div class='skill'><span>✓</span> SQLAlchemy, for using Python SQL</div>
-        <div class='skill'><span>✓</span> Alembic, for database migrations</div>
-        <div class='skill'><span>✓</span> Flask, for handling web server calls</div>
-        <div class='skill'><span>✓</span> Flask-Login, for user session management with Flask</div>
-        <div class='skill'><span>✓</span> Flask-CORS, for handling Cross Origin Resource Sharing</div>
-        <div class='skill'><span>✓</span> Flask-WTF, for integrating Flask and WTForms</div>
-        <div class='skill'><span>✓</span> Flask-Migrate, for handling Alembic database migrations</div>
-        <div class='skill'><span>✓</span> Gunicorn, a WSGI to run my Python applications</div>
-        <div class='skill'><span>✓</span> Werkzeug, to hash passwords and perform type conversions</div>
-        <div class='skill'><span>✓</span> WTForms, for form validations</div>
-    </div>
-</div>
-
 ### Congestion
 ![Congestion gameplay](/readme-resources/congestion-demo-1.gif)
 A puzzle game based on the Windows game Blocked In, that allows users to create and play puzzles.
@@ -70,6 +48,28 @@ A clone of the popular site evernote.com. Designed to allow users to store, edit
 Inspired by soundcloud.com, NoiseWave allows users to upload, search and play music. Utilizes a persistent audio player that plays music while you navigate website.
 
 [Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
+
+### Technologies Used
+<div class='columns'>
+    <div class='skills'>
+        <h4>Frontend</h4>
+        <div class='skill'><span>✓</span> React</div>
+        <div class='skill'><span>✓</span> Redux</div>
+    </div>
+    <div class='skills'>
+        <h4>Backend</h4>
+        <div class='skill'><span>✓</span> SQLAlchemy, for using Python SQL</div>
+        <div class='skill'><span>✓</span> Alembic, for database migrations</div>
+        <div class='skill'><span>✓</span> Flask, for handling web server calls</div>
+        <div class='skill'><span>✓</span> Flask-Login, for user session management with Flask</div>
+        <div class='skill'><span>✓</span> Flask-CORS, for handling Cross Origin Resource Sharing</div>
+        <div class='skill'><span>✓</span> Flask-WTF, for integrating Flask and WTForms</div>
+        <div class='skill'><span>✓</span> Flask-Migrate, for handling Alembic database migrations</div>
+        <div class='skill'><span>✓</span> Gunicorn, a WSGI to run my Python applications</div>
+        <div class='skill'><span>✓</span> Werkzeug, to hash passwords and perform type conversions</div>
+        <div class='skill'><span>✓</span> WTForms, for form validations</div>
+    </div>
+</div>
 
 ## My Skills
 <div class='columns'>
