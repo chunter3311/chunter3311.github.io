@@ -35,34 +35,41 @@ The Redux store is used to handle sessions, database and UI.
 ### Cram
 ![Cram](/readme-resources/cram-demo.gif)
 A full stack web app for creating and studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied, utilizing an interface to reveal the answer when ready. Progress is tracked.
-
+<!-- "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "http-proxy-middleware": "^1.0.5",
+    "js-cookie": "^2.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+     -->
 #### Technologies Used
 <div class='columns'>
     <div class='skills'>
-        <h4>Frontend</h4>
-        <div class='skill'>SQLAlchemy, for using Python SQL</div>
-        <div class='skill'>Alembic, for database migrations</div>
-        <div class='skill'>Flask, for handling web server calls</div>
-        <div class='skill'>Flask-Login, for user session management with Flask</div>
-        <div class='skill'>Flask-CORS, for handling Cross Origin Resource Sharing</div>
-        <div class='skill'>Flask-WTF, for integrating Flask and WTForms</div>
-        <div class='skill'>Flask-Migrate, for handling SQLAlchemy database migrations for Flask applications </div>using Alembic
-        <div class='skill'>Gunicorn, a WSGI to run my Python applications</div>
-        <div class='skill'>Werkzeug, to hash passwords and perform type conversions</div>
-        <div class='skill'>WTForms, for form validations</div>
+        <h5>Frontend</h5>
+        <div class='skill'><span>✓</span> React</div>
+        <div class='skill'><span>✓</span> Redux</div>
     </div>
     <div class='skills'>
-        <h4>Backend</h4>
-        <div class='skill'>SQLAlchemy, for using Python SQL</div>
-        <div class='skill'>Alembic, for database migrations</div>
-        <div class='skill'>Flask, for handling web server calls</div>
-        <div class='skill'>Flask-Login, for user session management with Flask</div>
-        <div class='skill'>Flask-CORS, for handling Cross Origin Resource Sharing</div>
-        <div class='skill'>Flask-WTF, for integrating Flask and WTForms</div>
-        <div class='skill'>Flask-Migrate, for handling SQLAlchemy database migrations for Flask applications </div>using Alembic
-        <div class='skill'>Gunicorn, a WSGI to run my Python applications</div>
-        <div class='skill'>Werkzeug, to hash passwords and perform type conversions</div>
-        <div class='skill'>WTForms, for form validations</div>
+        <h5>Backend</h5>
+        <div class='skill'><span>✓</span> SQLAlchemy, for using Python SQL</div>
+        <div class='skill'><span>✓</span> Alembic, for database migrations</div>
+        <div class='skill'><span>✓</span> Flask, for handling web server calls</div>
+        <div class='skill'><span>✓</span> Flask-Login, for user session management with Flask</div>
+        <div class='skill'><span>✓</span> Flask-CORS, for handling Cross Origin Resource Sharing</div>
+        <div class='skill'><span>✓</span> Flask-WTF, for integrating Flask and WTForms</div>
+        <div class='skill'><span>✓</span> Flask-Migrate, for handling Alembic database migrations</div>
+        <div class='skill'><span>✓</span> Gunicorn, a WSGI to run my Python applications</div>
+        <div class='skill'><span>✓</span> Werkzeug, to hash passwords and perform type conversions</div>
+        <div class='skill'><span>✓</span> WTForms, for form validations</div>
     </div>
 </div>
 
