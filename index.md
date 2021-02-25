@@ -7,7 +7,7 @@ layout: default
 ## Full Stack Project Portfolio
 <div class='columns'>
 <img src='/readme-resources/cole.png'>
-<p>
+<p class='larger-font'>
 Hi, I’m Cole and I’m a software developer.
 If you’re looking for an enthusiastic web developer, well-rounded in modern technologies, I believe I’m well suited to meet the needs of your team.
 </p>
