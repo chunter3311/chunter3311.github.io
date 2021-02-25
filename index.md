@@ -21,45 +21,15 @@ My technical career began 7 years ago, when I studied my first programming langu
 About a year ago, I realized it was time to receive some formal education and training in modern software development. That led me to enroll in a coding school called App Academy, a rigorous thousand-hour curriculum that covered the full-stack of software development. While there, I sharpened my coding skills in several technologies, including React/Redux, Javascript, Python and Flask.
 
 ## My Projects
-
-### Congestion
-![Congestion gameplay](/readme-resources/congestion-demo-1.gif)
-A puzzle game based on the Windows game Blocked In, that allows users to create and play puzzles.
-Puzzle layouts are read from the database and rendered with React components.
-Puzzle layouts are stored in a database table as a string that represents the position and identity of the different moving pieces.
-The state of gameplay is managed by two classes, Car and Game, which work to update changes in position and facilitate tasks such as resetting the board.
-The Redux store is used to handle sessions, database and UI.
-
-[Live Site](https://congestion-puzzle.herokuapp.com/) | [GitHub](https://github.com/chunter3311/congestion)
-
-### Cram
-![Cram](/readme-resources/cram-demo.gif)
-A full stack web app for creating and studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied, utilizing an interface to reveal the answer when ready. Progress is tracked.
-<!-- "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.12",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "http-proxy-middleware": "^1.0.5",
-    "js-cookie": "^2.2.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-redux": "^7.2.1",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
-    "redux": "^4.0.5",
-    "redux-thunk": "^2.3.0"
-     -->
-#### Technologies Used
+### Technologies Used
 <div class='columns'>
     <div class='skills'>
-        <h5>Frontend</h5>
+        <h4>Frontend</h4>
         <div class='skill'><span>✓</span> React</div>
         <div class='skill'><span>✓</span> Redux</div>
     </div>
     <div class='skills'>
-        <h5>Backend</h5>
+        <h4>Backend</h4>
         <div class='skill'><span>✓</span> SQLAlchemy, for using Python SQL</div>
         <div class='skill'><span>✓</span> Alembic, for database migrations</div>
         <div class='skill'><span>✓</span> Flask, for handling web server calls</div>
@@ -73,7 +43,19 @@ A full stack web app for creating and studying flashcards. Users can create flas
     </div>
 </div>
 
+### Congestion
+![Congestion gameplay](/readme-resources/congestion-demo-1.gif)
+A puzzle game based on the Windows game Blocked In, that allows users to create and play puzzles.
+Puzzle layouts are read from the database and rendered with React components.
+Puzzle layouts are stored in a database table as a string that represents the position and identity of the different moving pieces.
+The state of gameplay is managed by two classes, Car and Game, which work to update changes in position and facilitate tasks such as resetting the board.
+The Redux store is used to handle sessions, database and UI.
 
+[Live Site](https://congestion-puzzle.herokuapp.com/) | [GitHub](https://github.com/chunter3311/congestion)
+
+### Cram
+![Cram](/readme-resources/cram-demo.gif)
+A full stack web app for studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied with a user interface that displays the prompt, or question, and reveals the answer when the user is ready. Progress is tracked.
 
 [Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
 
