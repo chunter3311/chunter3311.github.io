@@ -18,7 +18,7 @@ If you’re looking for an enthusiastic web developer, well-rounded in modern te
 ## About Me
 My technical career began 7 years ago, when I studied my first programming language, C++. That led me to an internship with the Harris County District Clerk’s Office, where I got to observe the day to day work of seasoned programmers. Immediately after that, I found a position with a small web marketing firm, where I worked for 3.5 years. There I learned the basics of web design, search engine optimization, and business etiquette.
 
-About a year ago, I realized it was time to receive some formal education and training in modern software development. That led me to enroll in a coding school called App Academy, a rigorous thousand-hour curriculum that covered the full-stack of software development. While there, I sharpened my coding skills in several technologies, including React/Redux, Javascript, Python and Flask.
+About a year ago, I realized it was time to receive some formal education and training in modern software development. That led me to enroll in a coding school called App Academy, a rigorous thousand-hour curriculum that covered the full-stack of software development. While there, I sharpened my coding skills in several technologies, including React/Redux, JavaScript, Python and Flask.
 
 ## My Projects
 ### Congestion
