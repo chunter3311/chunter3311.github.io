@@ -13,8 +13,6 @@ If you’re looking for an enthusiastic web developer, well-rounded in modern te
 </p>
 </div>
 
-
-
 ## About Me
 My technical career began 7 years ago, when I studied my first programming language, C++. That led me to an internship with the Harris County District Clerk’s Office, where I got to observe the day to day work of seasoned programmers. Immediately after that, I found a position with a small web marketing firm, where I worked for 3.5 years. There I learned the basics of web design, search engine optimization, and business etiquette.
 
@@ -29,8 +27,6 @@ Puzzle layouts are stored in a database table as a string that represents the po
 The state of gameplay is managed by two classes, Car and Game, which work to update changes in position and facilitate tasks such as resetting the board.
 The Redux store is used to handle sessions, database and UI.
 
-[Live Site](https://congestion-puzzle.herokuapp.com/) | [GitHub](https://github.com/chunter3311/congestion)
-
 #### Technologies Used
 <div class='columns'>
     <div class='skills'>
@@ -52,13 +48,13 @@ The Redux store is used to handle sessions, database and UI.
         <div class='skill'><span>✓</span> WTForms, for form validations</div>
     </div>
 </div>
+
+[Live Site](https://congestion-puzzle.herokuapp.com/) | [GitHub](https://github.com/chunter3311/congestion)
 
 ### Cram
 ![Cram](/readme-resources/cram-demo.gif)
 A full stack web app for studying flashcards. Users can create flashcards to study, organized by decks. Decks can then be studied with a user interface that displays the prompt, or question, and reveals the answer when the user is ready. Progress is tracked.
 
-[Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
-
 #### Technologies Used
 <div class='columns'>
     <div class='skills'>
@@ -80,13 +76,13 @@ A full stack web app for studying flashcards. Users can create flashcards to stu
         <div class='skill'><span>✓</span> WTForms, for form validations</div>
     </div>
 </div>
+
+[Live Site](https://cram-flashcards.herokuapp.com/) | [GitHub](https://github.com/chunter3311/cram)
 
 ### EverQuote
 ![EverQuote](/readme-resources/everquote-demo.gif)
 A clone of the popular site evernote.com. Designed to allow users to store, edit and access quotes they found notable.
 
-[Live Site](https://everquote.herokuapp.com/) | [GitHub](https://github.com/djwilki/EverQuote)
-
 #### Technologies Used
 <div class='columns'>
     <div class='skills'>
@@ -109,11 +105,11 @@ A clone of the popular site evernote.com. Designed to allow users to store, edit
     </div>
 </div>
 
+[Live Site](https://everquote.herokuapp.com/) | [GitHub](https://github.com/djwilki/EverQuote)
+
 ### NoiseWave
 ![NoiseWave](/readme-resources/noisewave-demo.gif)
 Inspired by soundcloud.com, NoiseWave allows users to upload, search and play music. Utilizes a persistent audio player that plays music while you navigate website.
-
-[Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
 
 ### Technologies Used
 <div class='columns'>
@@ -130,6 +126,8 @@ Inspired by soundcloud.com, NoiseWave allows users to upload, search and play mu
         <div class='skill'><span>✓</span> CSURF</div>
     </div>
 </div>
+
+[Live Site](https://noisewave.herokuapp.com/) | [GitHub](https://github.com/DaedalusG/NoiseWave)
 
 ## My Skills
 <div class='columns'>
